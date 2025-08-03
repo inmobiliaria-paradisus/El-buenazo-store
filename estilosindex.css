@@ -1,5 +1,5 @@
 body{
-  background-image: url("/images/istockphoto-1361708626-612x612.jpg");
+  background-image: url("images/istockphoto-1361708626-612x612.jpg");
   background-size: cover;
     background-repeat: no-repeat;
 }
@@ -177,3 +177,4 @@ position:absolute;
       transform: translateX(100px); /* El título se desplaza hacia la derecha */
   }
 }
+
