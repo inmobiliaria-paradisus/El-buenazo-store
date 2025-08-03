@@ -1,5 +1,5 @@
 body{
-  background-image: url("https://github.com/store123971/El-buenazo-store/blob/main/images/istockphoto-1361708626-612x612.jpg");
+  background-image: url("https://github.com/store123971/El-buenazo-store/blob/main/images/istockphoto-1361708626-612x612.jpg?raw=true");
   background-size: cover;
     background-repeat: no-repeat;
 }
@@ -177,5 +177,6 @@ position:absolute;
       transform: translateX(100px); /* El título se desplaza hacia la derecha */
   }
 }
+
 
 
